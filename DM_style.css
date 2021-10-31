@@ -1,0 +1,166 @@
+<style>
+
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+height: 200vh;
+text-align: center;
+
+}
+
+body {
+height: 100vh;
+text-align: center;
+color: black;
+}
+
+nav {
+height: 50px;
+display: flex;
+align-items: center;
+
+}
+
+ul {
+display: flex;
+list-style: none;
+margin-left: auto;
+font-weight: bolder;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-shadow: 0px 2px 0px black;
+
+}
+.links{
+    border-left: 5px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+li{
+color: rgb(255, 255, 255);
+text-shadow: 0px 2px 0px black;
+font-weight: bolder;
+font-size: 20px;
+margin-left: 15px;
+border-left: 10px;
+text-align: left;
+
+}
+
+.border {
+float: left;
+width: 40%;
+height: 800px;
+background-color: rgb(31, 135, 205);
+padding: 60px;
+margin:left;
+margin-left: 100px;
+margin-top: 25px;
+border-bottom-left-radius: 10%;
+border-top-right-radius: 10%;
+box-shadow: 0px 10px 40px black;
+}
+
+h1 {
+color: white;
+text-align: center;
+font-weight: bolder;
+font-size: 80px;
+text-shadow: 0px 5px 10px blue;
+
+}
+h3{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+ 
+    
+    }
+h6 {
+        color: white;
+        text-align: center;
+        font-weight: bolder;
+        
+        }
+h5 {
+color: white;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+iframe {
+width: 400px;
+height: 300px;
+}
+
+
+.border1 {
+float: right;
+width: 50%;
+height: 800px;
+background-color: rgb(31, 135, 205);
+padding: 60px;
+margin: right;
+margin-right: 100px;
+margin-top: 25px;
+border-bottom-left-radius: 10%;
+border-top-right-radius: 10%;
+box-shadow: 0px 10px 40px black;
+}
+
+.b1left {
+float: left;
+width: 50%;
+}
+.b1right{
+float: right;
+width: 50%;
+}
+
+
+.border2 {
+width: auto;
+height: 150px;
+background-color: rgb(31, 135, 205);
+padding: 60px;
+margin: auto;
+margin-top: 25px;
+margin-right: 100px;
+margin-left: 100px;
+background-image: url(https://thumbs.gfycat.com/DecentQuickCoelacanth-size_restricted.gif);
+width: auto;
+height: 200px;
+}
+
+.pic{
+float: none;
+height: 400px;
+width: auto;
+
+}
+.pic1{
+float: left;
+width: 33%;
+margin-top: 25px;
+
+}
+
+.pic2{
+float:right;
+width: 33%;
+margin-top: 25px;
+
+}
+
+.pic3{
+float: left;
+width: 33%;
+margin-top: 25px;
+
+}
+
+img {
+border-radius: 10%;
+}
+</style>
